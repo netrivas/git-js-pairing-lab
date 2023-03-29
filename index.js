@@ -28,4 +28,7 @@ const untilNum = int => {
     }
 
 }
-untilNum(5)
+//untilNum(5)
+
+const multiply = (a,b) => a*b;
+//console.log(multiply(3,4))
