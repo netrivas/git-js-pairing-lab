@@ -32,3 +32,12 @@ const untilNum = int => {
 
 const multiply = (a,b) => a*b;
 //console.log(multiply(3,4))
+
+const add = (a,b) => {
+    if (a === b){
+    return (a+b)*3
+ } else {
+     return a + b
+}
+}
+console.log(add(2,4))
